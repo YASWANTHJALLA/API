@@ -1,0 +1,40 @@
+{
+	"orders": [
+    {
+		"RetailerName": "Tirupathi",
+		"Address": "Gachibowli,Hyderabad",
+		"Date": "01/01/2018",
+		"OrderQuantity": "120",
+		"OrderAmount": "10000",
+	}, {
+  "RetailerName": "Surya",
+		"Address": "Uppal,Hyderabad",
+		"Date": "01/01/2018",
+		"OrderQuantity": "150",
+		"OrderAmount": "15000",
+	}, {
+  "RetailerName": "Chaitanaya",
+		"Address": "scendurabad,Hyderabad",
+		"Date": "01/01/2018",
+		"OrderQuantity": "300",
+		"OrderAmount": "20000",
+	}, {
+  "RetailerName": "Nithin",
+		"Address": "Lingampally,Hyderabad",
+		"Date": "01/01/2018",
+		"OrderQuantity": "250",
+		"OrderAmount": "5000",
+	}, {
+  "RetailerName": "Srihari",
+		"Address": "HiTechcity,Hyderabad",
+		"Date": "01/01/2018",
+		"OrderQuantity": "600",
+		"OrderAmount": "80000",
+	}, {
+  "RetailerName": "Yaswanth",
+		"Address": "Lingampally,Hyderabad",
+		"Date": "01/01/2018",
+		"OrderQuantity": "1000",
+		"OrderAmount": "12565",
+	}]
+}
